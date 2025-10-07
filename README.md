@@ -1,6 +1,6 @@
 # Guillaume Beylouneh
 
-Développeur .NET - Paris
+.NET Developer - Paris
 
 ## Contact
 
